@@ -11,7 +11,7 @@ I am a passionate student developer currently learning **GIT Hub** at **KIST Col
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 👯 I’m looking to collaborate on **MLBB guides**
 - 💬 Ask me about **MLBB and Manhwas**
-- ⚡ Fun fact: **I love mobile legends :P**e
+- ⚡ Fun fact: **I love mobile legends :P**
 - 👨‍🏫 Mentored by: [Dishant Pahari](https://github.com/dppaharee)
 
 ---
